@@ -3,7 +3,7 @@
 <p align='center'> ✨ I'm ArceApps ✨ </p>
 
 <p align='center'> ✔️ I am a professional android developer </p>
-<p align='center'> ✔️ I also program indie apps and games in java and kotlin </p>
+<p align='center'> ✔️ I also program indie apps and games in kotlin and java </p>
 
 <p align='center'>
   <a href="https://twitter.com/arce_apps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=3DDC84&labelColor=707B7C" /></a>&nbsp;
@@ -72,10 +72,6 @@
 -->
 
 <!--
-**ArceApps/ArceApps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
