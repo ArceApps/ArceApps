@@ -2,8 +2,10 @@
 
 <p> ✨ I'm ArceApps ✨ </p>
 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F96666&vCenter=true&width=730&height=60&lines=Full-stack+app+developer+in+kotlin+and+java;Also+indie+programmer+of+games+and+apps;Always+learning+new+things" alt="Typing SVG" /></a>
+
 <p> ✔️ I am a professional android developer </p>
-<p> ✔️ I also program indie apps and games in kotlin and java </p>
+<p> ✔️ I also indie programmer of games and apps in kotlin and java</p>
 
 <p align='right'>
   <a href="https://twitter.com/arce_apps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=3DDC84&labelColor=707B7C" /></a>&nbsp;
@@ -54,6 +56,8 @@
   <a href="https://play.google.com/store/apps/details?id=com.arceapps.sudoku"><img src="https://play-lh.googleusercontent.com/_qmvk0sKHJlQeywxQ0LuyvBVLidM3Kw71AiTAx2kTjBccrzQkS_nm_J2g4fCJ1slcqc=w2048-h1002-rw" width="160" height="320" /></a>
   <!-- RecyclerView -->
   <a href="https://github.com/ArceApps/RecyclerView"><img src="https://user-images.githubusercontent.com/61239577/194725823-1e5215c3-ab5f-4604-a46c-780ae211a798.png" width="160" height="320" /></a>
+  <!-- MVVM -->
+  <a href="https://github.com/ArceApps/MVVM"><img src="https://user-images.githubusercontent.com/61239577/194740487-07821e96-6b30-4c34-ab9c-7dbfbbdfc872.png" width="160" height="320" /></a>
 </div>
 
 <!--
