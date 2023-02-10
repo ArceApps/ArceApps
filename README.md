@@ -48,16 +48,16 @@
 
 <h4> 💻 some apps that I have published in the google play store</h4>
 <div align="center">
-  <!-- 2048 -->
+
   <a href="https://play.google.com/store/apps/details?id=com.arceapps.a2048"><img src="https://play-lh.googleusercontent.com/rj72zJvHbXkcSrKlzJI4OlKk-VTwAne71VYQPwTN96SxmuZVnIA4Ak8YnKgkPI_kr_s=w2048-h1002-rw" width="160" height="320" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.arceapps.a2048"><img src="https://play-lh.googleusercontent.com/L4qorI2Rsf_e45XySV0htjrT2sI3b24SRJ8dUZyiwDESkrIDcgPD-OI6BEI7cu2KiSNx=w2048-h1002-rw" width="160" height="320" /></a>
-  <!-- Sodoku -->
   <a href="https://play.google.com/store/apps/details?id=com.arceapps.sudoku"><img src="https://play-lh.googleusercontent.com/B5ygW8Xfs4TYZ6vRtQnFcK74aqW_Ajkn_A44a3rOQ9qFNgXA2IbmJLmFheh4HZvXQg=w2048-h1002-rw" width="160" height="320" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.arceapps.sudoku"><img src="https://play-lh.googleusercontent.com/_qmvk0sKHJlQeywxQ0LuyvBVLidM3Kw71AiTAx2kTjBccrzQkS_nm_J2g4fCJ1slcqc=w2048-h1002-rw" width="160" height="320" /></a>
-  <!-- RecyclerView -->
+  
   <a href="https://github.com/ArceApps/RecyclerView"><img src="https://user-images.githubusercontent.com/61239577/194725823-1e5215c3-ab5f-4604-a46c-780ae211a798.png" width="160" height="320" /></a>
-  <!-- MVVM -->
   <a href="https://github.com/ArceApps/MVVM"><img src="https://user-images.githubusercontent.com/61239577/194740487-07821e96-6b30-4c34-ab9c-7dbfbbdfc872.png" width="160" height="320" /></a>
+  <a href="https://github.com/ArceApps/NewsAPI"><img src="https://user-images.githubusercontent.com/61239577/218185569-dab2e7dd-dd95-4c92-b897-7532de908192.png" width="160" height="320" /></a>
+  
 </div>
 
 <!--
