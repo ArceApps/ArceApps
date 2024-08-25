@@ -4,8 +4,9 @@
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=F96666&vCenter=true&width=730&height=60&lines=Full-stack+app+developer+in+kotlin+and+java;Also+indie+programmer+of+games+and+apps;Always+learning+new+things" alt="Typing SVG" /></a>
 
-<p> ✔️ I am a professional android developer </p>
-<p> ✔️ I also indie programmer of games and apps in kotlin and java</p>
+> [!IMPORTANT]
+> <p> ✔️ I am a professional android developer </p>
+> <p> ✔️ I also indie programmer of games and apps in kotlin and java</p>
 
 <p align='right'>
   <a href="https://twitter.com/arce_apps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=3DDC84&labelColor=707B7C" /></a>&nbsp;
